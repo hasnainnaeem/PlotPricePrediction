@@ -1,5 +1,5 @@
-# PlotPricePrediction
-This repo contains the analysis & visualization of a dataset containing plot prices. 
+# Plot Price Prediction
+This repo contains the analysis & visualization of a dataset containing the prices & other attributes of plots in Pakistan.
 This contribution was made to a project at [TUKL-NUST Research & Development Lab.](https://tukl.seecs.nust.edu.pk/), 
 during my internship.
 ## Description of Repo Files
